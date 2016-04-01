@@ -701,7 +701,7 @@ This variable is a normal hook.  See Info node `(elisp)Hooks'."
   "Functions to run if the Flycheck status changed.
 
 This hook is run whenever the status of Flycheck changes.  Each
-hook function takes the status symbol as sinlge argument, as
+hook function takes the status symbol as single argument, as
 given to `flycheck-report-status', which see.
 
 This variable is a abnormal hook.  See Info
